@@ -13,7 +13,7 @@
     <p>⚡  Hobbies: Reading, playing video games, and running</p>
     <h3>Contact me:</h3>
     <a href="mailto:alandeassisgonçalvessantos@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Hotmail-blue?style=for-the-badge&logo=microsoftoutlook" target="_blank"/>
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"" target="_blank"/>
     </a>
     <a href="https://www.linkedin.com/in/alan-assis-48307929b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
