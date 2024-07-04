@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=800080&center=true&vCenter=true&random=true&width=1000&lines=Welcome!;I'm+Alan+de+Assis+Gon%C3%A7alves+Santos)](https://git.io/typing-svg)
-<h2 align="center" style="color: #800080;">About me</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=800080&center=true&vCenter=true&random=true&width=1000&lines=Welcome!;I'm+Alan+de+Assis+Gon%C3%A7alves+Santos)](https://git.io/typing-svg)
+
+<h2 align="center" style="color: #800080;">💬 About me</h2>
 
 <h3 align="center" style="color: #800080;">Enthusiastic Future Data Scientist from Brazil</h3>
 
