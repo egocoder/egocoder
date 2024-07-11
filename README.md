@@ -63,6 +63,9 @@
 
 </p>
 
+<p align="center">
+  <img width="41%" height="195px" src=https://github-readme-stats.vercel.app/api?username=egocoder&theme=midnight-purple&show_icons=true />
+</p>
 ---
 
 <div align="center">
