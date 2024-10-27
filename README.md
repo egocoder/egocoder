@@ -55,6 +55,36 @@
   </div>
   
 ---
+<div align="center">
+
+<h2>Sub Skills</h2>
+
+
+ <table>
+    <tr>
+      <td align="center">Prolog</td>
+      <td align="center">Java</td>
+      <td align="center">CSS</td>
+    </tr>
+    <tr>
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+      </td>
+      <td align="center" width="96">
+         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="icon" />
+      </td>
+      <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="icon" />
+      </td>
+      </td>
+    </tr>
+      </td>
+    </tr>
+    </table>
+
+  </div>
+---
 
 <p align="center">
 
